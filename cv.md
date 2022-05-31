@@ -13,6 +13,8 @@
 * CSS
 * PHOTOSHOP
 * JAVASCRIPT
+* Symfony
+* Laravel
 
 # About me
 Hi, I’m from Ukraine and I moved to Poland five years ago. I graduated from the Cherkasy State Business College as Junior Software Specialist. I’ve been learning PHP at TEB school in Poznan from 2021. Actually I’m looking for a job or internship as Junior PHP Developer. I will do my best to get this job.
